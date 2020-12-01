@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Beat Em Up",
+"productVersion": "0.1",
+"dataUrl": "Responsabilidad.data.unityweb",
+"wasmCodeUrl": "Responsabilidad.wasm.code.unityweb",
+"wasmFrameworkUrl": "Responsabilidad.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
